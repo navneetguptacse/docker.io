@@ -86,9 +86,7 @@ Press **Ctrl + C** to stop all containers or use `docker container stop`.
 
 ### Docker Cheatsheet
 
-Below you can find a PDF document containing additional information:
-
-<iframe src="docker_cheatsheet.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
+[here >>>](docker_cheatsheet.pdf)
 
 Feel free to modify and expand upon this README file according to your project's specific needs.
-"# .docker-git.md" 
+"# .docker-git.md"
