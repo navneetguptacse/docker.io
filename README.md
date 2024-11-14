@@ -1,5 +1,5 @@
 <a href="https://www.docker.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Description" style="width:70%; height:auto;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Description" style="width:60%; height:auto;"/>
 </a>
 
 ### Pulling Images
